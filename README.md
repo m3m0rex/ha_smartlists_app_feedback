@@ -2,7 +2,7 @@
 
 **English** · [Deutsch](#deutsch)
 
-This is the place for **bug reports, questions and ideas** for the app **SmartLists Go** – lists and notes for Android,
+This is the place for **bug reports, questions and ideas** for the app **SmartLists Go** – lists and notes for Android/Apple,
 on the device alone or together with [Home Assistant](https://www.home-assistant.io/).
 
 The app's source code is not public. This repository contains no code – it only exists so you can reach me.
@@ -66,7 +66,7 @@ SmartLists Go is not an official product of Home Assistant or the Open Home Foun
 
 ## Deutsch
 
-Hier meldest du **Fehler, Fragen und Ideen** zur App **SmartLists Go** – Listen und Notizen für Android, nur auf dem
+Hier meldest du **Fehler, Fragen und Ideen** zur App **SmartLists Go** – Listen und Notizen für Android/Apple, nur auf dem
 Gerät oder zusammen mit Home Assistant.
 
 Der Quelltext der App ist nicht öffentlich. Dieses Repository enthält keinen Code; es gibt es nur, damit du mich
